@@ -1,1 +1,1 @@
-# Machine-Learning-Practices
+# Linear-Regression
